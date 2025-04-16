@@ -4,7 +4,7 @@ Sign XML documents using smart card readers, such as the Portuguese Citizen Card
 
 ## Description
 
-This project allows you to digitally sign XML documents using a smart card (e.g., the Portuguese Citizen Card) through a PKCS#11 interface. It utilizes Java and the [Digital Signature Services (DSS)](https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/DS+Library) library to generate XAdES enveloped signatures.
+This project allows you to digitally sign XML documents using a smart card (e.g., the Portuguese Citizen Card) through a PKCS#11 interface. It utilizes Java and the [Digital Signature Services (DSS)](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/) library to generate XAdES enveloped signatures.
 
 The script was written to run in MacOS, feel free to adapt it to your needs.
 
